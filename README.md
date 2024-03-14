@@ -1,10 +1,10 @@
 # Javascript
 repo para aprendizagem de javascript
-# Desenvolvedor
+## Desenvolvedor
 Matheus Cavalcanti da Silva 
 --
-## ETEC Sales Gomes
+### ETEC Sales Gomes
 --
-## Curso de Desenvolvimento de Sistemas
+### Curso de Desenvolvimento de Sistemas
 Programação de Aplicativos Mobile I
 
